@@ -1,2 +1,2 @@
 # Assignment-8
-Markdown presentations
+This repo contains the rmd for my final assignment slides
