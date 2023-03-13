@@ -1,0 +1,29 @@
+---
+title: "Some things I learned this quarter"
+subtitle: "FISH 549"
+author: "Marcela Todd Zaragoza <br> marcelat@uw.edu"
+output: ioslides_presentation
+---
+
+# Introduction
+
+## About me | Personal
+
+- I was born in Ciudad Juárez, Chihuahua, México
+- My favorite foods are entomatadas and pickled red onions
+- My favorite animals are manatees and corgis
+
+## About me | Academic
+
+- I did my undergraduate degree at UW in the School of Environmental and Forest Sciences
+- My major was Environmental Science and Terrestrial Resource Management with a concentration in Wildlife Conservation and a minor in Quantitative Science
+
+# Data Science
+
+## Course Topics | 3 things I enjoyed learning about
+
+1. I enjoyed learning how to formally use GitHub for collaborating. I informally learned how to use it from a lab mate, so it was nice to have a course that actually goes over it.
+2. I enjoyed learning how to use Markdown for the same reason listed above.
+3. It was interesting to learn about databases and PostgreSQL.
+
+## {data-background=img/rmarkdown.jpeg data-background-size=cover}
